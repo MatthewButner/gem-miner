@@ -1,0 +1,33 @@
+<manifest>
+    <main-class>com.Richturtle7.bots.dicer</main-class>
+    <name>crackHeadCoder's Dicer</name>
+    <tag-line>Tentative dicer bot.</tag-line>
+    <description>Hustles the addicts.</description>
+    <version>1.0.0</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+
+        <game-type>RS3</game-type>
+    </compatibility>
+
+    <categories>
+        <category>MINING</category>
+    </categories>
+
+    <internal-id>VTM-TEST-BOT</internal-id>
+
+    <open-source>false</open-source>
+    <hidden>false</hidden>
+
+    <tags>
+        <tag>Test</tag>
+        <tag>Bot</tag>
+        <tag>Tests</tag>
+    </tags>
+
+    <resources>
+        <resource></resource>
+    </resources>
+
+</manifest>
